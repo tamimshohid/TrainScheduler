@@ -1,0 +1,5 @@
+html, body {
+  background-image: url('../images/train.jpg');
+  background-position: center;
+  background-size: cover;
+}
